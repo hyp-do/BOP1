@@ -1,0 +1,52 @@
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\C969 - BOP1.exe.config
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\C969 - BOP1.exe
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\C969 - BOP1.pdb
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\fr\C969 - BOP1.resources.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\en\C969 - BOP1.resources.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\EntityFramework.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\Google.Protobuf.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\MySql.Data.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\MySql.Data.EntityFramework.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\Renci.SshNet.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\System.Buffers.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\System.Memory.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\Zstandard.Net.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\EntityFramework.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\Google.Protobuf.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\MySql.Data.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\MySql.Data.EntityFramework.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\Renci.SshNet.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\System.Buffers.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\System.Memory.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969 - BOP1.csprojAssemblyReference.cache
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.AddAppointmentForm.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.AddCustomerForm.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.GlobalStrings.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.LoginForm.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.MainForm.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.Properties.Resources.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.ReportForm.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.UpdateAppointmentForm.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.UpdateCustomerForm.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.GlobalStrings.fr.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.LoginForm.en.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969___BOP1.LoginForm.fr.resources
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969 - BOP1.csproj.GenerateResource.cache
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969 - BOP1.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\fr\C969 - BOP1.resources.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\en\C969 - BOP1.resources.dll
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969 - BOP1.csproj.CopyComplete
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969 - BOP1.exe
+C:\Users\James\source\repos\C969 - BOP1\C969 - BOP1\obj\Release\C969 - BOP1.pdb
