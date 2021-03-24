@@ -1,5 +1,5 @@
 # BOP1
-Second WGU C# Project. This was an appointment tracking application created with WinForms. Key take aways were working with databases, verification, and validation. 
+Second WGU C# Project. This was an appointment tracking application created with WinForms. Key take aways were working with databases, verification, and validation. I was also exposed to Entity Framework, which was a delight to learn and to use. 
 
 ## Introduction
 
